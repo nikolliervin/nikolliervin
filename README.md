@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🌱 I’m currently learning **Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikolliervin](https://github.com/nikolliervin)
 
