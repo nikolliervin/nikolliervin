@@ -4,10 +4,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolliervin&label=Profile%20views&color=0e75b6&style=flat" alt="nikolliervin" /> </p>
-[![committers.top badge](https://user-badge.committers.top/albania/nikolliervin.svg)](https://user-badge.committers.top/albania/nikolliervin)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolliervin" alt="nikolliervin" /></a> </p>
+
+[![committers.top badge](https://user-badge.committers.top/albania/nikolliervin.svg)](https://user-badge.committers.top/albania/nikolliervin)
+
 
 
 - 🌱 I’m currently learning **React JS and Node JS**
