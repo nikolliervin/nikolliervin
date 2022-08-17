@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ervin</h1>
 <h3 align="center">A passionate frontend developer from Albania</h3>
 <img align="right" alt="" width="400" src="https://images.app.goo.gl/SmuaPY8WsWBfzCyx6(https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-[![committers.top badge](https://user-badge.committers.top/albania/nikolliervin.svg)](https://user-badge.committers.top/albania/nikolliervin)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolliervin&label=Profile%20views&color=0e75b6&style=flat" alt="nikolliervin" /> </p>
+[![committers.top badge](https://user-badge.committers.top/albania/nikolliervin.svg)](https://user-badge.committers.top/albania/nikolliervin)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolliervin" alt="nikolliervin" /></a> </p>
 
