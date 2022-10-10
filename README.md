@@ -7,11 +7,11 @@
 
 [![committers.top badge](https://user-badge.committers.top/albania/nikolliervin.svg)](https://user-badge.committers.top/albania/nikolliervin)
 
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikolliervin](https://github.com/nikolliervin)
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **nikolliervin@gmail.com**
 
