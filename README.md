@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolliervin" alt="nikolliervin" /></a> </p>
 
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🌱 I’m currently learning **Nest JS, Express and Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikolliervin](https://github.com/nikolliervin)
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **.NET Core, C#**
 
 - 📫 How to reach me **nikolliervin@gmail.com**
 
